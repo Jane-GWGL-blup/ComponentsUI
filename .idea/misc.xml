@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/drawable/border_radius.xml" value="0.106" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/drawable/button_border.xml" value="0.106" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/drawable/button_gradient.xml" value="0.106" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/drawable/ic_email.xml" value="0.1" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/drawable/ic_launcher_2_foreground.xml" value="0.1745" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1745" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/drawable/round_button.xml" value="0.106" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout-land/activity_main2.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout-land/layout.xml" value="0.14858906525573193" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_android_button.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_check_box.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_custom_alert_dialog.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_date_picker.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_edit_text.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_floating_action_button.xml" value="0.1" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_floating_labels.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_image_button.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_main3.xml" value="0.22" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_progress_bar.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_radio_buttont.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_rating_bar.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_scroll_view.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_scroll_view_horizontal.xml" value="0.1" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_seek_bar.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_simple_dialog.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_snackbar.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_spinner.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_splash.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_switch_button.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_time_picker.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/activity_toggle_button.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/layout/custom_dialog.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher_2.xml" value="0.17" />
+        <entry key="..\:/Users/Lubana/AndroidStudioProjects/MyFirstProyectAndroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher_2_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

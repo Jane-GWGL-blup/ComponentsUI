@@ -1,0 +1,94 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:padding="16dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnSimpleButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#25aaff"
+            android:padding="10dp"
+            android:text="@string/this_is_simple_android_button" />
+
+        <Button
+            android:id="@+id/btnButtonLeftIconButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="#25aaff"
+            android:drawableLeft="@android:drawable/sym_call_outgoing"
+            android:padding="10dp"
+            android:text="@string/button_with_icon_in_left" />
+
+        <Button
+            android:id="@+id/btnButtonRightIconButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="#25aaff"
+            android:drawableRight="@android:drawable/sym_call_outgoing"
+            android:padding="10dp"
+            android:text="@string/button_with_icon_in_right" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnBackgroundImageButton"
+            android:layout_width="299dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/bg_button"
+            android:padding="10dp"
+            android:text="@string/button_with_background_image" />
+
+        <Button
+            android:id="@+id/btnBorderButton"
+            android:layout_width="250dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/button_border"
+            android:padding="10dp"
+            android:text="@string/button_with_border_color" />
+
+        <Button
+            android:id="@+id/btnBorderRadiusButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/border_radius"
+            android:padding="10dp"
+            android:text="@string/button_with_border_radius" />
+
+        <Button
+            android:id="@+id/btnRoundButton"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/round_button"
+            android:padding="10dp"
+            android:text="@string/round_button" />
+
+        <Button
+            android:id="@+id/btnMaterialDesignButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:textSize="18sp"
+            android:text="@string/material_design_button"  />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnGradientButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/gradient_button"
+            android:padding="10dp"
+            android:text="@string/gradient_button" />
+    </LinearLayout>
+</ScrollView>

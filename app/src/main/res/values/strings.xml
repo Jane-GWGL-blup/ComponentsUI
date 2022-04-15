@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">ComponentsUI</string>
+    <string name="android_scrollview_example">Android ScrollView Example</string>
+    <string name="android_button_1">Android Button 1</string>
+    <string name="android_button_2">Android Button 2</string>
+    <string name="android_button_3">Android Button 3</string>
+    <string name="android_button_4">Android Button 4</string>
+    <string name="android_horizontal_scrollview_example">Android Horizontal ScrollView Example Android Horizontal ScrollView Example\nAndroid Horizontal ScrollView ExampleAndroid Horizontal ScrollView Example\nAndroid Horizontal ScrollView ExampleAndroid Horizontal ScrollView Example\nAndroid Horizontal ScrollView ExampleAndroid Horizontal ScrollView Example</string>
+    <string name="this_is_simple_android_button">This is Simple Android Button</string>
+    <string name="button_with_icon_in_left">Button With Icon in Left</string>
+    <string name="button_with_icon_in_right">Button With Icon in Right</string>
+    <string name="button_with_background_image">Button With Background Image</string>
+    <string name="button_with_border_color">Button With Border Color</string>
+    <string name="button_with_border_radius">Button With Border Radius</string>
+    <string name="round_button">Round Button</string>
+    <string name="material_design_button">Material Design Button</string>
+    <string name="gradient_button">Gradient Button</string>
+    <string name="android_edittext_example">Android EditText Example</string>
+    <string name="enter_your_first_name">Enter Your First Name</string>
+    <string name="register">Register</string>
+    <string name="enter_your_last_name">Enter Your Last Name</string>
+    <string name="android_checkbox_example">Android CheckBox Example</string>
+    <string name="android">Android</string>
+    <string name="java">Java</string>
+    <string name="xml">XML</string>
+    <string name="html">HTML</string>
+    <string name="css">CSS</string>
+    <string name="jquery">jQuery</string>
+    <string name="php">PHP</string>
+    <string name="asp">ASP</string>
+    <string name="among_the_layouts_given_below_which_one_you_found_the_easiest_one">Among the layouts given below, which one you found the easiest one ?</string>
+    <string name="relative_layout">Relative Layout</string>
+    <string name="linear_layout">Linear Layout</string>
+    <string name="frame_layout">Frame Layout</string>
+    <string name="table_layout">Table Layout</string>
+    <string name="grid_layout">Grid Layout</string>
+    <string name="answer">Answer</string>
+    <string name="android_switch_button_1">Android Switch Button 1</string>
+    <string name="android_switch_button">Android Switch Button</string>
+    <string name="android_switch_button_2">Android Switch Button 2</string>
+    <string name="first_togglebutton">First ToggleButton</string>
+    <string name="togglebutton_status">ToggleButton Status</string>
+    <string name="second_togglebutton">Second ToggleButton</string>
+    <string name="android_ratingbar_example">Android RatingBar Example</string>
+    <string name="submit">Submit</string>
+    <string name="your_rate">Your Rate</string>
+    <string name="show_value">Show value</string>
+    <string name="android_spinner_example">Android Spinner Example</string>
+    <string name="enter_a_number_bettwen_0_and_100">Enter a number bettwen 0 and 100</string>
+    <string name="show">Show</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="display_date">Display Date</string>
+    <string name="change_time">Change Time</string>
+    <string name="display_current_time">Display Current Time</string>
+    <string name="android_floating_action_button">Android Floating Action Button (FAB) Example Using Design Support library</string>
+    <string name="your_name">Your Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="android_seekbar_example">Android SeekBar Example</string>
+    <string name="progress_0_6">Progress: 0/6</string>
+    <string name="simple_android_dialog_box">Simple Android Dialog Box</string>
+    <string name="show_simple_android_dialog">Show Simple Android Dialog</string>
+    <string name="custom_android_dialog_box">Custom Android Dialog Box</string>
+    <string name="show_custom_android_dialog">Show Custom Android Dialog</string>
+    <string name="show_snackbar">Show Snackbar</string>
+    <string name="enter_text">Ingresar Texto</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="text_custom">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi hic culpa, velit molestiae! Facilis libero veniam rerum asperiores necessitatibus.</string>
+    <string-array name="android_layout_arrays">
+        <item>Choose a Layout</item>
+        <item>LinearLayout</item>
+        <item>RelativeLayout</item>
+        <item>FrameLayout</item>
+        <item>TableLayout</item>
+        <item>AbsoluteLayout</item>
+        <item>GridLayout</item>
+    </string-array>
+</resources>
